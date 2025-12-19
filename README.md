@@ -59,7 +59,7 @@ Para ejecutar este notebook, siga los siguientes pasos:
 <img src="https://avatars.githubusercontent.com/u/225441026?v=4" width=100><br><sub>Ariel Antonio Lobos Nuñez</sub>
 
 ## Información de contacto:
-###  https://github.com/retutux-arch
-### https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
+* [Github](https://github.com/retutux-arch)
+* [Linkedin](https://www.linkedin.com/in/ariel-lobos/)
 
 
